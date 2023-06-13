@@ -4,7 +4,7 @@
   
 View the stakeholder requirement document [here](https://github.com/LJ-Luka/GoogleFibre/blob/main/Stakeholder-Requirements-Document.docx)  
 View the project requirement document [here](https://github.com/LJ-Luka/GoogleFibre/blob/main/Project-Requirements-Document.docx)  
-View the strategy document [here](https://github.com/LJ-Luka/GoogleFibre/blob/main/Strategy-Document.docx) 
+View the strategy document [here](https://github.com/LJ-Luka/GoogleFibre/blob/main/Strategy-Document.docx)   
 View the final dashboard [here](https://public.tableau.com/app/profile/lumi.luka/viz/Google_Fiber_Reporting_Tables/GoogleFiber)   
 
 
