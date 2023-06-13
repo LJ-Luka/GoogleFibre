@@ -7,10 +7,6 @@ View the project requirement document [here](https://github.com/LJ-Luka/GoogleFi
 View the strategy document [here](https://github.com/LJ-Luka/GoogleFibre/blob/main/Strategy-Document.docx)   
 View the final dashboard [here](https://public.tableau.com/app/profile/lumi.luka/viz/Google_Fiber_Reporting_Tables/GoogleFiber)  
 
-  
-<img src = "C:\Users\KADMI\Desktop\Google_BI_Analyst_Certification\Course_3\Google_Fiber.png" alt = "Alt text" title = "Dashboard">  
-
-
 The Google Fiber project from the Google BI Certificate project was completed in stages.  
 The first stage was getting familiar with initial meetings with stakeholders and using information from those to fill out Key BI documents. These are Stakeholder requirement documents, Project requirement documents and Strategy documents. They help take note of project objectives, goals, success criteria, stakeholder needs, stakeholders, team members and many more. The strategy document specifically has a section for documenting details regarding charts to be used – usually as a guide.  
 In the second stage, ETL skills were practised. One alternative was to use SQL to unionise the 3 tables provided and then import the unionised dataset into Tableau. The other was to import them into Tableau, create a connection between them, and unionise them. The latter was chosen for this project.  
