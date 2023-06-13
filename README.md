@@ -1,7 +1,7 @@
 # Google Fibre
 Google BI Certificate project  
   
-View the project requirement document {here}[https://github.com/LJ-Luka/GoogleFibre/blob/main/Stakeholder-Requirements-Document.docx]
+View the project requirement document [here](https://github.com/LJ-Luka/GoogleFibre/blob/main/Stakeholder-Requirements-Document.docx)
 
 The Google Fiber project from the Google BI Certificate project was completed in stages.  
 The first stage was getting familiar with initial meetings with stakeholders and using information from those to fill out Key BI documents. These are Stakeholder requirement documents, Project requirement documents and Strategy documents. They help take note of project objectives, goals, success criteria, stakeholder needs, stakeholders, team members and many more. The strategy document specifically has a section for documenting details regarding charts to be used – usually as a guide.  
